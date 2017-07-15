@@ -10,7 +10,7 @@ https://github.com/golang/go/wiki
 - https://golang.org/doc/contribute.html
 - https://help.github.com/articles/closing-issues-using-keywords/
 - https://github.com/golang/go/issues
-- [How to Contribute to Go (slides from GopherCon 2017)](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p)
+- [How to Contribute to Go (slides from Community Day, GopherCon 2017)](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p)
 
 ## Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers

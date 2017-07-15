@@ -1,5 +1,7 @@
 # golang-resources
 
+https://go.googlesource.com/
+
 https://github.com/golang/go
 
 https://github.com/golang/go/wiki

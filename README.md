@@ -1,5 +1,9 @@
 # golang-resources
 
+https://github.com/golang/go
+
+https://github.com/golang/go/wiki
+
 ## Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers
 

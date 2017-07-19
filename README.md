@@ -45,9 +45,15 @@ https://github.com/golang/go/wiki
 ### Frameworks
 - https://github.com/micro/go-micro
 
+### Hardware
+- https://periph.io/
+
 ### Mocking
 - https://github.com/golang/mock
 - https://github.com/sourcegraph/gen-mocks
+
+### Robots!
+- https://gobot.io/
 
 ### Toolkits
 - https://github.com/micro/micro

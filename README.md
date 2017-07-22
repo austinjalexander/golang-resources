@@ -48,6 +48,9 @@ https://github.com/golang/go/wiki
 ### Hardware
 - https://periph.io/
 
+### Learning
+- https://learn-anything.xyz/programming/programming-languages/go
+
 ### Mocking
 - https://github.com/golang/mock
 - https://github.com/sourcegraph/gen-mocks

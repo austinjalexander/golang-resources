@@ -50,6 +50,8 @@ https://github.com/golang/go/wiki
 
 ### Learning
 - https://learn-anything.xyz/programming/programming-languages/go
+- https://github.com/jbuberel/go-patterns
+- https://github.com/manyminds/api2go
 
 ### Mocking
 - https://github.com/golang/mock

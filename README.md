@@ -19,6 +19,7 @@ https://github.com/golang/go/wiki
 - https://help.github.com/articles/closing-issues-using-keywords/
 - https://github.com/golang/go/issues
 - [How to Contribute to Go (slides from Community Day, GopherCon 2017)](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p)
+- https://groups.google.com/forum/#!forum/golang-codereviews
 
 ### Dependency Management
 - https://sdboyer.io/dep-status/

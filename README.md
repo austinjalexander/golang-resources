@@ -19,6 +19,9 @@ https://github.com/golang/go/wiki
 ### Dependency Management
 - https://sdboyer.io/dep-status/
 
+### Design
+- [https://dave.cheney.net/2016/08/20/solid-go-design
+
 ### Generics
 - https://github.com/golang/proposal/blob/master/design/15292-generics.md
 - [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/edit#)

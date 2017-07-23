@@ -16,8 +16,8 @@ https://github.com/golang/go/wiki
 - https://groups.google.com/forum/#!forum/golang-codereviews
 
 ### Contributing
-- [How to Contribute to Go](https://golang.org/s/gophercon2017) (slides from Community Day, GopherCon 2017; [direct link](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p))
 - https://golang.org/doc/contribute.html
+- [How to Contribute to Go](https://golang.org/s/gophercon2017) (slides from Community Day, GopherCon 2017; [direct link](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p))
 - https://godoc.org/golang.org/x/review/git-codereview
 - https://help.github.com/articles/closing-issues-using-keywords/
 - https://github.com/golang/go/issues

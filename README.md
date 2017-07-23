@@ -11,13 +11,14 @@ https://github.com/golang/go/wiki
 - https://www.goinggo.net/2013/05/why-go-programming.html
 
 ### Community
-- https://groups.google.com/forum/#!forum/golang-nuts
 - https://invite.slack.golangbridge.org/
+- https://groups.google.com/forum/#!forum/golang-nuts
+- https://groups.google.com/forum/#!forum/golang-codereviews
 
 ### Contributing
 - [How to Contribute to Go (slides from Community Day, GopherCon 2017)](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p)
-- https://groups.google.com/forum/#!forum/golang-codereviews
 - https://golang.org/doc/contribute.html
+- https://godoc.org/golang.org/x/review/git-codereview
 - https://help.github.com/articles/closing-issues-using-keywords/
 - https://github.com/golang/go/issues
 

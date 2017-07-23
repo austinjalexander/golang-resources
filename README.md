@@ -10,6 +10,10 @@ https://github.com/golang/go/wiki
 - https://dave.cheney.net/2011/02
 - https://www.goinggo.net/2013/05/why-go-programming.html
 
+### Community
+- https://groups.google.com/forum/#!forum/golang-nuts
+- https://invite.slack.golangbridge.org/
+
 ### Contributing
 - https://golang.org/doc/contribute.html
 - https://help.github.com/articles/closing-issues-using-keywords/

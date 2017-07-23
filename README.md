@@ -42,9 +42,6 @@ https://github.com/golang/go/wiki
 ### Documentation
 - https://github.com/adams-sarah/test2doc
 
-### Frameworks
-- https://github.com/micro/go-micro
-
 ### Hardware
 - https://periph.io/
 
@@ -56,6 +53,10 @@ https://github.com/golang/go/wiki
 ### Mocking
 - https://github.com/golang/mock
 - https://github.com/sourcegraph/gen-mocks
+
+### Projects
+- https://github.com/avelino/awesome-go
+- https://github.com/micro/go-micro
 
 ### Robots!
 - https://gobot.io/

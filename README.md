@@ -21,6 +21,7 @@ https://github.com/golang/go/wiki
 - https://godoc.org/golang.org/x/review/git-codereview
 - https://help.github.com/articles/closing-issues-using-keywords/
 - https://github.com/golang/go/issues
+- https://go-review.googlesource.com
 
 ### Dependency Management
 - https://sdboyer.io/dep-status/

@@ -40,6 +40,9 @@ https://github.com/golang/go/wiki
 ### Security
 - https://www.gitbook.com/book/checkmarx/go-scp/details
 
+### Testing
+- https://speakerdeck.com/mitchellh/advanced-testing-with-go
+
 ## To Investigate
 
 ### Complexity

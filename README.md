@@ -66,12 +66,10 @@ https://github.com/golang/go/wiki
 ### Projects
 - https://github.com/avelino/awesome-go
 - https://github.com/micro/go-micro
+- https://github.com/micro/micro
 
 ### Robots!
 - https://gobot.io/
-
-### Toolkits
-- https://github.com/micro/micro
 
 ### Verification
 - [Formal verification of concurrency in go](http://ieeexplore.ieee.org/document/7748882/)

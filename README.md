@@ -9,6 +9,7 @@ https://github.com/golang/go/wiki
 ### Blogs
 - https://dave.cheney.net/2011/02
 - https://www.goinggo.net/2013/05/why-go-programming.html
+- https://blog.golang.org/go-whats-new-in-march-2010
 
 ### Community
 - https://invite.slack.golangbridge.org/

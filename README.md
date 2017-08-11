@@ -29,7 +29,7 @@ https://github.com/golang/go/wiki
 - https://sdboyer.io/dep-status/
 
 ### Design
-- [https://dave.cheney.net/2016/08/20/solid-go-design
+- https://dave.cheney.net/2016/08/20/solid-go-design
 
 ### Generics
 - https://github.com/golang/proposal/blob/master/design/15292-generics.md
@@ -56,6 +56,7 @@ https://github.com/golang/go/wiki
 
 ### Documentation
 - https://github.com/adams-sarah/test2doc
+- https://github.com/fluhus/godoc-tricks
 
 ### Hardware
 - https://periph.io/

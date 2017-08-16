@@ -54,6 +54,9 @@ https://github.com/golang/go/wiki
 - https://github.com/gonum/gonum
 - https://github.com/kniren/gota
 
+### Design Patterns
+- https://github.com/tmrts/go-patterns
+
 ### Documentation
 - https://github.com/adams-sarah/test2doc
 - https://github.com/fluhus/godoc-tricks

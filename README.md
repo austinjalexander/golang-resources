@@ -70,9 +70,14 @@ https://github.com/golang/go/wiki
 - https://github.com/jbuberel/go-patterns
 - https://github.com/manyminds/api2go
 
+### Logging
+- https://github.com/sirupsen/logrus
+
 ### Mocking
 - https://github.com/golang/mock
 - https://github.com/sourcegraph/gen-mocks
+- https://github.com/vektra/mockery
+- https://github.com/DATA-DOG/go-sqlmock
 
 ### Projects
 - https://github.com/avelino/awesome-go

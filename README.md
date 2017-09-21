@@ -67,6 +67,9 @@ https://github.com/golang/go/wiki
 ### Hardware
 - https://periph.io/
 
+### Image Processing
+- https://primitive.lol/
+
 ### Learning
 - https://learn-anything.xyz/programming/programming-languages/go
 - https://github.com/jbuberel/go-patterns

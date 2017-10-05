@@ -47,6 +47,7 @@ https://github.com/golang/go/wiki
 
 ### Testing
 - https://speakerdeck.com/mitchellh/advanced-testing-with-go
+- https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 
 ## To Investigate
 

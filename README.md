@@ -46,6 +46,7 @@ https://github.com/golang/go/wiki
 - https://www.gitbook.com/book/checkmarx/go-scp/details
 
 ### Testing
+- https://talks.golang.org/2014/testing.slide#1
 - https://speakerdeck.com/mitchellh/advanced-testing-with-go
 - https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 

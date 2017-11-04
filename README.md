@@ -45,6 +45,9 @@ https://github.com/golang/go/wiki
 ### Security
 - https://www.gitbook.com/book/checkmarx/go-scp/details
 
+### Style
+- http://go-proverbs.github.io/
+
 ### Testing
 - https://talks.golang.org/2014/testing.slide#1
 - https://speakerdeck.com/mitchellh/advanced-testing-with-go

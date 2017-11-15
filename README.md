@@ -80,6 +80,9 @@ https://github.com/golang/go/wiki
 - https://github.com/jbuberel/go-patterns
 - https://github.com/manyminds/api2go
 
+### Licenses
+- https://choosealicense.com/
+
 ### Logging
 - https://github.com/sirupsen/logrus
 

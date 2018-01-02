@@ -68,6 +68,7 @@ https://github.com/golang/go/wiki
 
 ### Design Patterns
 - https://github.com/tmrts/go-patterns
+- http://www.golangpatterns.info/
 
 ### Documentation
 - https://github.com/adams-sarah/test2doc

@@ -39,6 +39,7 @@ https://github.com/golang/go/wiki
 - https://pbs.twimg.com/media/DEjApdzXcAAlhH7.jpg
 
 ### Getting Started
+- https://github.com/enocom/gopher-reading-list
 
 ### Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers

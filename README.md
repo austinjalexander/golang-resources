@@ -38,7 +38,7 @@ https://github.com/golang/go/wiki
 - [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/edit#)
 - https://pbs.twimg.com/media/DEjApdzXcAAlhH7.jpg
 
-### Getting Started
+### Learning
 - https://github.com/enocom/gopher-reading-list
 
 ### Research Papers

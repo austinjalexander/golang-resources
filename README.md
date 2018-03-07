@@ -54,6 +54,7 @@ https://github.com/golang/go/wiki
 - https://talks.golang.org/2014/testing.slide#1
 - https://speakerdeck.com/mitchellh/advanced-testing-with-go
 - https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
+- https://medium.com/@harrygogonis/testing-go-mocking-third-party-dependancies-4ab4e1c9bd3f
 
 ## To Investigate
 

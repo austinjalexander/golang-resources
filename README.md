@@ -58,6 +58,9 @@ https://github.com/golang/go/wiki
 
 ## To Investigate
 
+### Code Evaluation
+- https://github.com/golang/example/tree/master/gotypes
+
 ### Complexity
 - https://github.com/fzipp/gocyclo
 

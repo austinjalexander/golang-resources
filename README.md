@@ -95,6 +95,9 @@ https://github.com/golang/go/wiki
 - https://learn-anything.xyz/programming/programming-languages/go
 - https://github.com/jbuberel/go-patterns
 - https://github.com/manyminds/api2go
+- https://golangbot.com/learn-golang-series/
+- https://github.com/teh-cmc/go-internals
+- https://quii.gitbook.io/learn-go-with-tests
 
 ### Logging
 - https://github.com/sirupsen/logrus

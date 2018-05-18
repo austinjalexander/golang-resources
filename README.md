@@ -83,6 +83,9 @@ https://github.com/golang/go/wiki
 - https://github.com/adams-sarah/test2doc
 - https://github.com/fluhus/godoc-tricks
 
+### Errors
+- https://blog.golang.org/errors-are-values
+
 ### Frameworks
 - https://gobuffalo.io
 

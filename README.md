@@ -13,6 +13,9 @@ https://github.com/golang/go/wiki
 - https://medium.com/@benbjohnson
 - [package visualization](https://anvaka.github.io/pm/#/galaxy/gosearch?cx=0&cy=0&cz=0&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1&v=2017-11-30T09-00-00Z)
 
+### Branding
+- https://blog.golang.org/go-brand
+
 ### Community
 - https://invite.slack.golangbridge.org/
 - https://groups.google.com/forum/#!forum/golang-nuts

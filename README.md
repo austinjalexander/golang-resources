@@ -118,6 +118,9 @@ https://github.com/golang/go/wiki
 ### Presenting
 - https://godoc.org/golang.org/x/tools/present
 
+### Profiling
+- https://www.reddit.com/r/golang/comments/8neprv/theres_no_pprof_documentation/?st=JHU0L4FP&sh=9a94c42c
+
 ### Projects
 - https://github.com/avelino/awesome-go
 - https://github.com/micro/go-micro

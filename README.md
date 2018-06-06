@@ -47,6 +47,7 @@ https://github.com/golang/go/wiki
 ### Learning
 - https://github.com/enocom/gopher-reading-list
 - https://go101.org/article/101.html
+- https://peter.bourgon.org/go-for-industrial-programming/
 
 ### Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers

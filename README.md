@@ -38,6 +38,8 @@ https://github.com/golang/go/wiki
 
 ### Design
 - https://dave.cheney.net/2016/08/20/solid-go-design
+- https://peter.bourgon.org/go-for-industrial-programming/
+- https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 
 ### Generics
 - https://github.com/golang/proposal/blob/master/design/15292-generics.md
@@ -47,7 +49,6 @@ https://github.com/golang/go/wiki
 ### Learning
 - https://github.com/enocom/gopher-reading-list
 - https://go101.org/article/101.html
-- https://peter.bourgon.org/go-for-industrial-programming/
 
 ### Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers

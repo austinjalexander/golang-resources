@@ -47,6 +47,7 @@ https://github.com/golang/go/wiki
 - https://pbs.twimg.com/media/DEjApdzXcAAlhH7.jpg
 
 ### Learning
+- https://github.com/ardanlabs/gotraining/tree/master/topics/courses/go
 - https://github.com/enocom/gopher-reading-list
 - https://go101.org/article/101.html
 

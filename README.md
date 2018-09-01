@@ -41,6 +41,11 @@ https://github.com/golang/go/wiki
 - https://peter.bourgon.org/go-for-industrial-programming/
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 
+### Documentation
+```go
+godoc regexp | grep -i parse
+```
+
 ### Generics
 - https://github.com/golang/proposal/blob/master/design/15292-generics.md
 - [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/edit#)

@@ -35,6 +35,21 @@ https://github.com/golang/go/wiki
 
 ### Dependency Management
 - https://sdboyer.io/dep-status/
+Go modules:
+```bash
+.PHONY: all clean install
+
+all:
+	go mod vendor
+	go build -mod=vendor ./...
+
+clean:
+	go mod tidy
+
+install: all
+	go install -mod=vendor ./...
+
+```
 
 ### Design
 - https://dave.cheney.net/2016/08/20/solid-go-design

@@ -65,6 +65,7 @@ godoc regexp | grep -i parse
 - https://github.com/golang/proposal/blob/master/design/15292-generics.md
 - [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/edit#)
 - https://pbs.twimg.com/media/DEjApdzXcAAlhH7.jpg
+- http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
 
 ### Learning
 - https://github.com/ardanlabs/gotraining/tree/master/topics/courses/go

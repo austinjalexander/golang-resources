@@ -73,6 +73,9 @@ godoc regexp | grep -i parse
 - https://github.com/enocom/gopher-reading-list
 - https://go101.org/article/101.html
 
+### Layout
+- https://github.com/golang-standards/project-layout
+
 ### Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers
 

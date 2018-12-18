@@ -82,6 +82,9 @@ godoc regexp | grep -i parse
 ### Security
 - https://www.gitbook.com/book/checkmarx/go-scp/details
 
+### SSL/TLS
+- https://github.com/mholt/certmagic
+
 ### Style
 - http://go-proverbs.github.io/
 

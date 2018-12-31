@@ -35,7 +35,7 @@ https://github.com/golang/go/wiki
 
 ### Dependency Management
 - https://sdboyer.io/dep-status/
-Go modules:
+#### Go modules
 ```bash
 .PHONY: all clean install
 
@@ -50,6 +50,7 @@ install: all
 	go install -mod=vendor ./...
 
 ```
+- https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules
 
 ### Design
 - https://dave.cheney.net/2016/08/20/solid-go-design

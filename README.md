@@ -164,5 +164,8 @@ godoc regexp | grep -i parse
 ### Testing
 - http://goconvey.co/
 
+### Tooling
+- https://www.alexedwards.net/blog/an-overview-of-go-tooling
+
 ### Verification
 - [Formal verification of concurrency in go](http://ieeexplore.ieee.org/document/7748882/)

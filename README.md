@@ -32,6 +32,7 @@ https://github.com/golang/go/wiki
 
 ### Database
 - http://go-database-sql.org/index.html
+- https://www.alexedwards.net/blog/using-postgresql-jsonb
 
 ### Dependency Management
 - https://sdboyer.io/dep-status/

@@ -80,6 +80,9 @@ godoc regexp | grep -i parse
 ### Layout
 - https://github.com/golang-standards/project-layout
 
+### Performance
+- https://github.com/dgryski/go-perfbook
+
 ### Research Papers
 - https://github.com/golang/go/wiki/ResearchPapers
 

@@ -35,9 +35,21 @@ https://github.com/golang/go/wiki
 - https://www.alexedwards.net/blog/using-postgresql-jsonb
 
 ### Dependency Management
+- https://github.com/golang/go/wiki/Modules#quick-start
 - https://sdboyer.io/dep-status/
 #### Go modules
-```bash
+
+#### Init
+
+```shell
+go mod init
+```
+
+Tools: https://github.com/go-modules-by-example/index/blob/master/010_tools/README.md
+
+##### Makefile
+
+```shell
 .PHONY: all clean install
 
 all:

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>WS Example</title>
+</head>
+<body>
+  <script>
+    const socket = new WebSocket("ws://dev.udacity.com:8080/ws");
+    console.log("Attempting websocket connection from client");
+
+    socket.onopen = () => {
+        console.log("Client successfully connected to socket server");
+        socket.send("Hi from the client!")
+    };
+
+    socket.onclose = (event) => {
+      console.log(`Socket server closed connection: ${event}`)
+    };
+
+    socket.onmessage = (msg) => {
+      console.log(msg)
+    };
+
+    socket.onerror = (error) => {
+      console.log(`Socket server error: ${error}`)
+    };
+  </script>
+
+  <h1>
+    Websocket Client  
+  </h1>
+</body>
+</html>
+</html>

@@ -20,6 +20,7 @@ https://github.com/golang/go/wiki
 - https://invite.slack.golangbridge.org/
 - https://groups.google.com/forum/#!forum/golang-nuts
 - https://groups.google.com/forum/#!forum/golang-codereviews
+- https://go-store.io/
 
 ### Contributing
 - https://golang.org/doc/contribute.html

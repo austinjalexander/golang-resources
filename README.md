@@ -103,6 +103,7 @@ godoc regexp | grep -i parse
 ### Security
 - https://www.gitbook.com/book/checkmarx/go-scp/details
 - https://github.com/securego/gosec
+- https://github.com/OWASP/Go-SCP
 
 ### SSL/TLS
 - https://github.com/mholt/certmagic

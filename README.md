@@ -70,6 +70,7 @@ install: all
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://peter.bourgon.org/go-for-industrial-programming/
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
+- https://the-zen-of-go.netlify.com/
 
 ### Documentation
 ```go
@@ -82,6 +83,9 @@ godoc regexp | grep -i parse
 - https://pbs.twimg.com/media/DEjApdzXcAAlhH7.jpg
 - http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
 - https://emilymaier.net/words/getting-specific-about-generics/
+
+### Humor
+- https://github.com/SuperPaintman/the-evolution-of-a-go-programmer
 
 ### IoT
 - https://tinygo.org/

@@ -84,6 +84,9 @@ godoc regexp | grep -i parse
 - http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
 - https://emilymaier.net/words/getting-specific-about-generics/
 
+### History
+- https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
+
 ### Humor
 - https://github.com/SuperPaintman/the-evolution-of-a-go-programmer
 

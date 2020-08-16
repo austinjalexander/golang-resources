@@ -1,10 +1,10 @@
 # golang-resources
 
-https://go.googlesource.com/
+✅ https://go.googlesource.com/
 
-https://github.com/golang/go
+✅ https://github.com/golang/go
 
-https://github.com/golang/go/wiki
+✅ https://github.com/golang/go/wiki
 
 ### Blogs
 - https://dave.cheney.net/2011/02
